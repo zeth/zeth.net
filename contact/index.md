@@ -5,7 +5,7 @@ eyebrow: Contact
 heading: Get in touch
 lede: >-
   The simplest way to reach Zeth Ltd is by email. A few sentences is plenty
-  to start with; you will get a reply from Zeth directly.
+  to start with; you will get a reply from Zeth or Jutta directly.
 description: >-
   Contact Zeth Ltd about contract engineering or a new application
   development project.
