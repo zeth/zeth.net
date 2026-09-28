@@ -29,7 +29,7 @@ We are not an agency, and we do not pretend to be one. Keeping the company small
   <figcaption>Zeth, co-founder of Zeth Ltd</figcaption>
 </figure>
 
-Zeth is a software engineer, a co-founder and director of Zeth Ltd, and the engineer on client and contract work. Zeth's work spans Python and backend systems on one side, and native mobile and desktop software on the other, including the shared C/C++ core behind Holder.
+Zeth is a co-founder and the chief engineer of Zeth Ltd, and does the engineering on client and contract work. Zeth's work spans Python and backend systems on one side, and native mobile and desktop software on the other, including the shared C/C++ core behind Holder.
 
 Zeth came to software by way of economics and the humanities, with degrees in econometrics and digital humanities and a master's in natural language processing, and paid for the second degree by building web applications for small businesses. That mix still shows: Zeth enjoys new projects, rescuing old legacy systems, meeting new people and learning how different industries work.
 
@@ -48,7 +48,7 @@ Zeth's open-source work is on GitHub at [github.com/zeth]({{ site.data.company.g
 
 ## Jutta
 
-Jutta is a co-founder and director of Zeth Ltd, and its company secretary, keeping the company's affairs in good order.
+Jutta is a co-founder of Zeth Ltd and its company secretary, keeping the company's affairs in good order.
 
 She brings a practical, people-first perspective from her experience in IT support: she knows what happens when real people meet real software, and what it takes to help them. She holds a BA (Hons) in History from the University of Essex, and brings a historian's eye for detail and for getting the record right.
 

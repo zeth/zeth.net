@@ -7,12 +7,11 @@
 legal_name: Zeth Ltd
 short_name: Zeth
 
-# Directors and officers, as listed on the Companies House register.
-officers:
-  - name: Zeth
-    role: Director
-  - name: Jutta
-    role: Director and company secretary
+# Officers, as listed on the Companies House register.
+directors:
+  - Zeth
+  - Jutta
+company_secretary: Jutta
 
 # Legal identity -- REQUIRED before publication.
 company_number: "10657524" # e.g. "12345678" (Companies House registration number)
