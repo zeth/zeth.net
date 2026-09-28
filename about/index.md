@@ -20,7 +20,7 @@ Zeth Ltd provides [contract engineering]({{ '/services/contract-engineering/' | 
   <figcaption>Zeth and Jutta, directors of Zeth Ltd</figcaption>
 </figure>
 
-You work directly with Zeth, who scopes, builds and maintains the software. Keeping the company small gives you a direct line to the person doing the engineering, from the first conversation through to release and ongoing support.
+You work directly with the two of us. We scope, build and maintain the software. Because the company is small, you deal with us from the first conversation through to release and ongoing support.
 
 <div class="people">
 <div class="people__text" markdown="1">

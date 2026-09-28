@@ -2,10 +2,10 @@
 title: Services
 permalink: /services/
 eyebrow: Services
-heading: Two ways to work with us
+heading: Engineering that fits around you
 lede: >-
-  Zeth can join your engineering team and work on your priorities, or take
-  responsibility for delivering a project from an agreed scope to handover.
+  Every team and every idea is different. We adapt to your people, your
+  process and your timescale, rather than asking you to fit ours.
 description: >-
   Contract engineering for technical teams and bespoke application development
   for organisations with an idea to build, from Zeth Ltd.
@@ -43,7 +43,7 @@ description: >-
 <div markdown="1">
 ### Deliver your project
 
-- you want Zeth to take responsibility for delivering an agreed scope, such as a new app, service or integration;
+- your developers are busy, and you need a self-contained piece of work (a new service, integration or deployment) delivered and handed over, rather than managed;
 - you already have a system, such as a Django application, and want a mobile app built to work with it;
 - you want regular reviews of progress while Zeth manages the development work;
 - you need help deciding what to build as well as building it.
