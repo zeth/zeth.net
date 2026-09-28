@@ -1,0 +1,33 @@
+# Company facts and contact details, used across the site.
+#
+# Any value left empty (~) is rendered as a conspicuous "To confirm"
+# placeholder, so nothing unconfirmed is published silently. Fill these in
+# before publication; see the checklist in README.md.
+
+legal_name: Zeth Ltd
+short_name: Zeth
+founder: Zeth
+
+# Legal identity -- REQUIRED before publication.
+company_number: ~        # e.g. "12345678" (Companies House registration number)
+company_type: ~       # e.g. "Private company limited by shares"
+jurisdiction: England and Wales   # as stated in holder.team/privacy/
+registered_office: ~     # Full registered office address, one line
+vat_number: ~            # Leave empty if not VAT-registered; the row is then hidden
+                         # unless show_vat is true.
+show_vat: false
+
+# Contact -- REQUIRED before publication.
+email: ~                 # e.g. "hello@zeth.net"; enables every mailto: link on the site
+cv_on_request: true
+
+# Links
+github_personal: ~       # e.g. "https://github.com/<username>"
+github_company: ~        # e.g. "https://github.com/<organisation>"
+linkedin: ~              # optional
+
+holder:
+  name: Holder
+  tagline: Your knowledge belongs to you.
+  url: https://holder.team/
+  github: https://github.com/HolderTeam/

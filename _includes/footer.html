@@ -1,0 +1,25 @@
+{%- assign c = site.data.company -%}
+<footer class="site-footer">
+  <div class="container site-footer__inner">
+    <div class="site-footer__identity">
+      <p class="brand brand--footer"><span class="brand__mark">ZETH</span><span class="brand__suffix">LTD</span></p>
+      <p>{{ c.legal_name }} is an independent software engineering company in the United Kingdom.</p>
+      <p class="site-footer__legal">
+        {% if c.jurisdiction %}Registered in {{ c.jurisdiction }}{% else %}Registered in {% include placeholder.html text="jurisdiction" %}{% endif %}.
+        Company number {% include fact.html value=c.company_number label="company number" %}.
+      </p>
+    </div>
+    <nav class="site-footer__nav" aria-label="Footer">
+      <ul>
+        <li><a href="{{ '/company/' | relative_url }}">Company information</a></li>
+        <li><a href="{{ '/legal/privacy/' | relative_url }}">Privacy</a></li>
+        <li><a href="{{ '/work/#holder' | relative_url }}">Holder</a></li>
+        <li>{% assign gh = c.github_company | default: c.github_personal %}{% if gh %}<a href="{{ gh }}">GitHub</a>{% else %}GitHub {% include placeholder.html text="link" %}{% endif %}</li>
+        <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="container site-footer__base">
+    <p>&copy; {{ 'now' | date: '%Y' }} {{ c.legal_name }}. No cookies, analytics or trackers on this site.</p>
+  </div>
+</footer>

@@ -1,0 +1,104 @@
+---
+layout: default
+title: Independent software engineering
+description: >-
+  Zeth Ltd is an independent UK software engineering company offering contract
+  engineering for technical teams and bespoke application development for
+  organisations with an idea to build.
+---
+{%- assign c = site.data.company -%}
+<section class="hero">
+  <div class="container">
+    <p class="eyebrow">Independent software engineering &amp; bespoke applications</p>
+    <h1>Thoughtful software. Built to last.</h1>
+    <p class="lede">
+      Zeth Ltd is an independent UK software company. We join engineering teams
+      on contract, particularly for Python and backend work, and we design and
+      build native mobile and desktop applications for organisations with an
+      idea to bring to life.
+    </p>
+    <div class="button-row">
+      <a class="button" href="{{ '/contact/' | relative_url }}">Discuss a project</a>
+      <a class="button button--ghost" href="{{ '/work/' | relative_url }}">Explore our work</a>
+    </div>
+  </div>
+</section>
+
+<section class="section section--alt" aria-labelledby="what-we-do">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">What we do</p>
+      <h2 id="what-we-do">Two ways to work with us</h2>
+    </div>
+    <div class="cards">
+      <div class="card">
+        <p class="card__for">For engineering teams &amp; recruiters</p>
+        <h3><a href="{{ '/services/contract-engineering/' | relative_url }}">Contract Engineering</a></h3>
+        <p>An experienced engineer who joins your team, understands the existing system and delivers maintainable work within it.</p>
+        <ul>
+          <li>Python and backend services</li>
+          <li>Cross-platform and native application engineering</li>
+          <li>Testing, packaging and release practice</li>
+        </ul>
+        <span class="arrow-link" aria-hidden="true">Contract engineering</span>
+      </div>
+      <div class="card">
+        <p class="card__for">For organisations with an idea</p>
+        <h3><a href="{{ '/services/app-development/' | relative_url }}">Application Development</a></h3>
+        <p>A bespoke app for your business or community, taken from a first conversation to a tested release, with a clear plan for maintenance.</p>
+        <ul>
+          <li>Mobile and desktop applications</li>
+          <li>Plain-English scoping and regular progress</li>
+          <li>Built to be maintained, not abandoned</li>
+        </ul>
+        <span class="arrow-link" aria-hidden="true">Application development</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="featured">
+  <div class="container feature">
+    <div>
+      <p class="eyebrow">Featured project</p>
+      <h2 id="featured" class="visually-hidden">Featured project: Holder</h2>
+      <p class="feature__quote">{{ c.holder.tagline }}</p>
+      <p>
+        <strong>Holder</strong> is an open-source, local-first knowledge workspace, with
+        mobile and desktop applications built on a shared C/C++ core. Development
+        is supported by Zeth Ltd, and all of its code is open to inspect.
+      </p>
+      <div class="button-row">
+        <a class="button button--ghost" href="{{ '/work/#holder' | relative_url }}">How Holder is built</a>
+        <a class="arrow-link" href="{{ c.holder.url }}">Visit holder.team</a>
+      </div>
+    </div>
+    {% include holder-slot.html %}
+  </div>
+</section>
+
+<section class="section section--alt" aria-labelledby="about-teaser">
+  <div class="container person">
+    <img src="{{ '/assets/images/zeth-headshot.jpg' | relative_url }}" alt="Zeth, founder of Zeth Ltd" width="480" height="480" loading="lazy">
+    <div>
+      <p class="eyebrow">About</p>
+      <h2 id="about-teaser">A founder-led engineering company</h2>
+      <p>
+        Zeth Ltd is small on purpose. When you work with us, you work directly with
+        Zeth, the engineer who founded the company and does the work, from the first
+        conversation to the finished release.
+      </p>
+      <a class="arrow-link" href="{{ '/about/' | relative_url }}">About Zeth and the company</a>
+    </div>
+  </div>
+</section>
+
+<section class="cta-band" aria-labelledby="closing-cta">
+  <div class="container">
+    <h2 id="closing-cta">Have something in mind?</h2>
+    <p class="lede">Whether it is a contract role or an app idea, a short message is the best place to start.</p>
+    <div class="button-row">
+      <a class="button" href="{{ '/contact/' | relative_url }}">Get in touch</a>
+    </div>
+  </div>
+</section>

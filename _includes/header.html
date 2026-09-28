@@ -1,0 +1,18 @@
+{%- assign nav = site.data.navigation.main -%}
+<header class="site-header">
+  <div class="container site-header__inner">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Zeth Ltd, home">
+      <span class="brand__mark">ZETH</span><span class="brand__suffix">LTD</span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+        {%- for item in nav %}
+        {%- assign current = false -%}
+        {%- if page.url == item.url -%}{%- assign current = true -%}
+        {%- elsif item.url != '/' and page.url contains item.url -%}{%- assign current = true -%}{%- endif %}
+        <li><a href="{{ item.url | relative_url }}"{% if current %} aria-current="page"{% endif %}{% if item.button %} class="site-nav__cta"{% endif %}>{{ item.title }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

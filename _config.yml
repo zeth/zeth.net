@@ -1,0 +1,45 @@
+# Site-wide settings. Company facts and contact details live in
+# _data/company.yml so they can be updated in one place.
+
+title: Zeth Ltd
+tagline: Thoughtful software. Built to last.
+description: >-
+  Zeth Ltd is an independent UK software engineering company providing
+  contract engineering, bespoke application development and support for
+  open-source projects.
+lang: en-GB
+
+# The eventual production address. `jekyll serve` overrides this with the
+# local address automatically. No CNAME file is created at this stage.
+url: "https://zeth.net"
+baseurl: ""
+
+# No gem theme: this site provides its own layouts and styles.
+theme: null
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
+  - images/
+  - zeth-net-local-jekyll-handoff.md
