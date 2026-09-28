@@ -69,7 +69,6 @@ web-sized, metadata-stripped copies are in `assets/images/`.
 
 ## To confirm before publication
 
-- [ ] **Business email address**: `email` in `_data/company.yml`.
 - [ ] **Registered office**: `_data/company.yml`.
 - [ ] **VAT number**, if registered (set `show_vat: true`).
 - [ ] **Contract Engineering**: engagement terms and availability; check the CV-derived experience summary.

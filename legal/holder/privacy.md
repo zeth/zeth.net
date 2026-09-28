@@ -30,6 +30,6 @@ sitemap: false
 - {% include placeholder.html text="Children's privacy, if relevant to the app store listings." %}
 - {% include placeholder.html text="Date of last update and how changes are announced." %}
 
-For questions about this policy: {% include email-link.html subject="Holder privacy" %}.
+For privacy questions about Holder: {% include email-link.html email=c.holder.privacy_email %}.
 
 The Holder source code is public at [{{ c.holder.github | remove: 'https://' }}]({{ c.holder.github }}).

@@ -1,9 +1,10 @@
 {%- comment -%}
   Renders a mailto: link to the business address in _data/company.yml,
   or a visible placeholder while the address is unset.
-  Parameters: subject (optional), label (optional), class (optional).
+  Parameters: subject, label, class and email (all optional; email
+  overrides the business address).
 {%- endcomment -%}
-{%- assign email = site.data.company.email -%}
+{%- assign email = include.email | default: site.data.company.email -%}
 {%- if email -%}
 <a{% if include.class %} class="{{ include.class }}"{% endif %} href="mailto:{{ email }}{% if include.subject %}?subject={{ include.subject | uri_escape }}{% endif %}">{{ include.label | default: email }}</a>
 {%- else -%}
