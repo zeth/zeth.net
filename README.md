@@ -74,11 +74,11 @@ web-sized, metadata-stripped copies are in `assets/images/`.
 - [ ] **VAT number**, if registered (set `show_vat: true`).
 - [ ] **GitHub link** for the footer: `github_company` or `github_personal`.
 - [ ] **Contract Engineering**: specific technologies, experience summary, location, terms and availability.
-- [ ] **About**: personal introduction, professional background, open-source and community involvement.
+- [ ] **About**: introductions to Zeth and Jutta, Zeth's professional background, open-source and community involvement.
 - [ ] **Open Source**: any other projects or contributions.
 - [ ] **Work**: client or contract work (only with the client's permission), or remove that section.
 - [ ] **Holder**: check the "shared C/C++ core" description and the release details on the Work page are current.
 - [ ] **Company page**: which apps, if any, are published under Zeth Ltd's name.
 - [ ] **Privacy notice** (`legal/privacy.md`): write it from the facts, then have it reviewed.
 - [ ] **Holder privacy** (`legal/holder/privacy.md`): holder.team already has a privacy policy. Decide whether to link to it, mirror it or remove this page.
-- [ ] **Photos**: approve the portrait used on the homepage and About page.
+- [ ] **Photos**: approve the portrait (homepage, About) and the photo of Zeth and Jutta (About).

@@ -21,6 +21,8 @@ description: >-
   <dd>{% include fact.html value=c.company_number label="Companies House registration number" %}</dd>
   <dt>Registered in</dt>
   <dd>{% include fact.html value=c.jurisdiction label="jurisdiction, e.g. England and Wales" %}</dd>
+  <dt>Officers</dt>
+  <dd>{% for o in c.officers %}{{ o.name }}, {{ o.role | downcase }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</dd>
   <dt>Registered office</dt>
   <dd>{% include fact.html value=c.registered_office label="registered office address" %}</dd>
   {%- if c.show_vat %}
