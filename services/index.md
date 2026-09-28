@@ -2,11 +2,10 @@
 title: Services
 permalink: /services/
 eyebrow: Services
-heading: Two services, one engineer
+heading: Engineering that fits around you
 lede: >-
-  Zeth Ltd offers contract engineering to technical teams and bespoke
-  application development to organisations that want something built.
-  They suit different people, so each has its own page.
+  Every team and every idea is different. We adapt to your people, your
+  process and your timescale, rather than asking you to fit ours.
 description: >-
   Contract engineering for technical teams and bespoke application development
   for organisations with an idea to build, from Zeth Ltd.
