@@ -12,6 +12,8 @@ description: >-
   clear process from first conversation to release and ongoing maintenance.
 ---
 
+**Already have a web application or an in-house team?** We can build the app that works alongside it, or deliver a self-contained piece of work your developers don't have time for, and hand it over cleanly.
+
 ## What you can expect
 
 <div class="split split--pairs" markdown="1">

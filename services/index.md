@@ -34,16 +34,17 @@ description: >-
 <div markdown="1">
 ### Contract engineering is a good fit if…
 
+- the work will be directed day to day by your team;
 - you already have developers and a codebase;
-- you know roughly what needs doing and need capacity or expertise;
-- the work will be directed day to day by your team.
+- you know roughly what needs doing and need capacity or expertise.
 </div>
 <div markdown="1">
 ### Application development is a good fit if…
 
-- you do not have an in-house development team;
-- you want a complete application, not extra hands;
-- you want help deciding what to build, as well as building it.
+- you already have a system, such as a Django application, and want a mobile app built to work with it;
+- your developers are busy, and you need a self-contained piece of work (a new service, integration or deployment) delivered and handed over, rather than managed;
+- you want a finished application, not extra hands;
+- you don't have an in-house team, and want help deciding what to build as well as building it.
 </div>
 </div>
 
