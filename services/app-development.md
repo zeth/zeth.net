@@ -21,21 +21,25 @@ description: >-
 ### One accountable person
 
 You deal directly with the engineer building your app, so what you ask for is not lost in translation between salespeople, managers and developers.
+
 </div>
 <div markdown="1">
 ### Plain English throughout
 
 We explain choices and trade-offs in terms of your users, your budget and your timescale, not jargon.
+
 </div>
 <div markdown="1">
 ### Built to last
 
 Software needs looking after once it is released. We plan for updates and maintenance from the start, so your app keeps working.
+
 </div>
 <div markdown="1">
 ### Honest scope
 
 We will tell you what a sensible first version looks like, and what is better left for later, or not built at all.
+
 </div>
 </div>
 
@@ -67,10 +71,6 @@ We will tell you what a sensible first version looks like, and what is better le
     <p>We prepare the app for distribution, for example through the app stores, and agree how updates and ongoing maintenance will work.</p>
   </li>
 </ol>
-
-## What kind of apps?
-
-Apps for phones and tablets, and applications for desktop computers, from a focused tool for your own team to an app for your customers or members. If your idea needs to work on more than one kind of device, we can often share most of the work between them, just as with our own open-source project, [Holder]({{ '/work/#holder' | relative_url }}).
 
 <div class="panel" markdown="1">
 ### Tell us about your idea
