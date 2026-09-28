@@ -39,6 +39,8 @@ Zeth is a software engineer, a co-founder and director of Zeth Ltd, and the engi
 
 ### Open source and community
 
+Zeth's open-source work is on GitHub at [github.com/zeth]({{ site.data.company.github_personal }}), and Holder's repositories are under [HolderTeam]({{ site.data.company.holder.github }}).
+
 {% include placeholder.html text="Selected open-source contributions and community involvement (projects, talks, conferences), with links." %}
 
 ## Jutta

@@ -72,7 +72,6 @@ web-sized, metadata-stripped copies are in `assets/images/`.
 - [ ] **Business email address**: `email` in `_data/company.yml`.
 - [ ] **Registered office**: `_data/company.yml`.
 - [ ] **VAT number**, if registered (set `show_vat: true`).
-- [ ] **GitHub link** for the footer: `github_company` or `github_personal`.
 - [ ] **Contract Engineering**: specific technologies, experience summary, location, terms and availability.
 - [ ] **About**: introductions to Zeth and Jutta, Zeth's professional background, open-source and community involvement.
 - [ ] **Open Source**: any other projects or contributions.

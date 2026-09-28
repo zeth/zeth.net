@@ -28,7 +28,7 @@ email: ~                 # e.g. "hello@zeth.net"; enables every mailto: link on 
 cv_on_request: true
 
 # Links
-github_personal: ~       # e.g. "https://github.com/<username>"
+github_personal: https://github.com/zeth
 github_company: ~        # e.g. "https://github.com/<organisation>"
 linkedin: ~              # optional
 
