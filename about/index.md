@@ -2,7 +2,7 @@
 title: About
 permalink: /about/
 eyebrow: About
-heading: A small company, deliberately
+heading: Engineering on a human scale
 lede: >-
   Zeth Ltd is an independent software engineering company based in the
   United Kingdom, run by its two co-founders, Zeth and Jutta.
