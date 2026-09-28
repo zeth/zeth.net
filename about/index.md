@@ -48,6 +48,11 @@ Zeth's open-source work is on GitHub at [github.com/zeth]({{ site.data.company.g
 
 ## Jutta
 
+<figure class="portrait">
+  <img src="{{ '/assets/images/jutta-portrait.jpg' | relative_url }}" alt="Jutta smiling, seated in a café" width="768" height="1024" loading="lazy">
+  <figcaption>Jutta, co-founder of Zeth Ltd</figcaption>
+</figure>
+
 Jutta is a co-founder of Zeth Ltd and its company secretary, keeping the company's affairs in good order.
 
 She brings a practical, people-first perspective from her experience in IT support: she knows what happens when real people meet real software, and what it takes to help them. She holds a BA (Hons) in History from the University of Essex, and brings a historian's eye for detail and for getting the record right.

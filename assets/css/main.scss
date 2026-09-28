@@ -569,3 +569,5 @@ mark.placeholder {
 .wide-photo { margin: 2rem 0; max-width: 48rem !important; }
 .wide-photo img { border-radius: var(--radius); }
 .wide-photo figcaption { font-size: 0.85rem; color: var(--muted); margin-top: 0.5rem; }
+.page-body > h2 { clear: both; }
+.page-body > .panel { clear: both; }

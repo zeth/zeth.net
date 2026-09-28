@@ -79,4 +79,4 @@ web-sized, metadata-stripped copies are in `assets/images/`.
 - [ ] **Company page**: which apps, if any, are published under Zeth Ltd's name.
 - [ ] **Privacy notice** (`legal/privacy.md`): write it from the facts, then have it reviewed.
 - [ ] **Holder privacy** (`legal/holder/privacy.md`): holder.team already has a privacy policy. Decide whether to link to it, mirror it or remove this page.
-- [ ] **Photos**: approve the portrait (homepage, About) and the photo of Zeth and Jutta (About).
+- [ ] **Photos**: approve the portrait (homepage, About), the photo of Zeth and Jutta, and replace the interim portrait of Jutta (About).
