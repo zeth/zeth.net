@@ -70,7 +70,7 @@ Building the tools around models: interfaces for people who use model outputs, t
 <div markdown="1">
 ### Front end and cross-platform
 
-Full-stack work where it is needed, and native desktop and mobile software on a portable core, as in the open-source [Holder]({{ '/work/#holder' | relative_url }}) project.
+Full-stack work where it is needed, and native desktop and mobile software on a portable core, as in the open-source [Holder]({{ '/open-source/#holder' | relative_url }}) project.
 
 <ul class="tags">
   <li>React</li>
@@ -104,7 +104,7 @@ More than twenty years of building software, from university research systems to
 - **Research software** as lead developer at a UK university: tools to record, analyse, compare and publish medieval manuscript data, including an asynchronous text-collation system handling tens of millions of variants.
 - **A real-time auction system** for a UK government agency, kept in step with a live in-person auction.
 
-Selected public work, including open-source contributions, is on the [Work]({{ '/work/' | relative_url }}) and [Open Source]({{ '/open-source/' | relative_url }}) pages.
+Public work, including Holder and other open-source contributions, is on the [Open Source]({{ '/open-source/' | relative_url }}) page.
 
 ## Working arrangements
 

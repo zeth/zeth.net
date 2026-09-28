@@ -74,7 +74,8 @@ The full-size originals are kept outside the repository, in the parent
 - [ ] **VAT number**, if registered (set `show_vat: true`).
 - [ ] **Contract Engineering**: check the CV-derived experience summary.
 - [ ] **About**: check the CV-derived text about Zeth and the introduction to Jutta.
-- [ ] **Holder**: check the "shared C/C++ core" description and the release details on the Work page are current.
+- [ ] **Holder**: check the "shared C/C++ core" description and the release details on the Open Source page are current.
+- [ ] **Work page**: removed for now; bring it back once client app screenshots are available (the old version is in git history).
 - [ ] **Company page**: which apps, if any, are published under Zeth Ltd's name.
 - [ ] **Privacy notice** (`privacy/index.md`): write it from the facts, then have it reviewed.
 - [ ] **Holder privacy** (`privacy/holder.md`): holder.team already has a privacy policy. Decide whether to link to it, mirror it or remove this page.

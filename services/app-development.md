@@ -79,6 +79,6 @@ A few sentences is plenty to start with: what you want the app to do, who it is 
 
 <div class="button-row">
   <a class="button" href="{{ '/contact/#app' | relative_url }}">Start a conversation</a>
-  <a class="button button--ghost" href="{{ '/work/' | relative_url }}">See our work</a>
+  <a class="button button--ghost" href="{{ '/open-source/#holder' | relative_url }}">See an app we build</a>
 </div>
 </div>

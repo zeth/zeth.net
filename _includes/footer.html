@@ -13,7 +13,7 @@
       <ul>
         <li><a href="{{ '/company/' | relative_url }}">Company information</a></li>
         <li><a href="{{ '/privacy/' | relative_url }}">Privacy</a></li>
-        <li><a href="{{ '/work/#holder' | relative_url }}">Holder</a></li>
+        <li><a href="{{ '/open-source/#holder' | relative_url }}">Holder</a></li>
         <li>{% assign gh = c.github_company | default: c.github_personal %}{% if gh %}<a href="{{ gh }}">GitHub</a>{% else %}GitHub {% include placeholder.html text="link" %}{% endif %}</li>
         <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
       </ul>
