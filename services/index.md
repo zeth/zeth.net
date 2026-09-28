@@ -23,7 +23,7 @@ description: >-
   <div class="card">
     <p class="card__for">You have a project to deliver</p>
     <h3><a href="{{ '/services/app-development/' | relative_url }}">Deliver your project</a></h3>
-    <p>You agree the scope with Zeth, who takes responsibility for planning, building, testing and handing over the software, with regular progress updates.</p>
+    <p>You agree the scope with us, and we take responsibility for planning, building, testing and handing over the software, with regular progress updates.</p>
     <p>Mobile and desktop applications, backend services and integrations.</p>
     <p class="small">For organisations with or without an in-house development team.</p>
     <span class="arrow-link" aria-hidden="true">Application development</span>
@@ -36,6 +36,8 @@ description: >-
 <div markdown="1">
 ### Join your team
 
+This is a good fit if:
+
 - the work will be directed day to day by your team;
 - you already have developers and a codebase;
 - you know roughly what needs doing and need capacity or expertise.
@@ -43,9 +45,11 @@ description: >-
 <div markdown="1">
 ### Deliver your project
 
+This is a good fit if:
+
 - your developers are busy, and you need a self-contained piece of work (a new service, integration or deployment) delivered and handed over, rather than managed;
 - you already have a system, such as a Django application, and want a mobile app built to work with it;
-- you want regular reviews of progress while Zeth manages the development work;
+- you want regular reviews of progress while we manage the development work;
 - you need help deciding what to build as well as building it.
 </div>
 </div>

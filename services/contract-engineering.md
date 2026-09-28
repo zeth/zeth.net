@@ -88,14 +88,13 @@ Automated testing, packaging, release processes and the kind of documentation th
 
 ## Work within your team
 
-Your team sets the priorities and directs the work day to day. Zeth joins your development process as a senior engineer, with work that can include:
+Your team sets the priorities and directs the work day to day. Zeth joins your development process as a senior engineer. The work can include:
 
-- **Joining an existing team** as a contributing senior engineer on your roadmap.
-- **Building services and integrations** within your team's roadmap and delivery process.
+- **Building services and integrations** on your roadmap.
 - **Improving what already exists:** rescuing legacy systems, adding tests, build and release pipelines, performance, or paying down technical debt.
 - **Technical advice** on architecture or platform choices before you commit.
 
-For a project you want Zeth to scope, manage and deliver, see [Deliver your project]({{ '/services/app-development/' | relative_url }}).
+For a project you want us to scope, manage and deliver, see [Deliver your project]({{ '/services/app-development/' | relative_url }}).
 
 ## Experience
 
@@ -118,7 +117,7 @@ Public work, including Holder and other open-source contributions, is on the [Op
   <dt>Location</dt>
   <dd>UK-based, remote-first. Hybrid, on-site and travel arrangements considered. Full clean UK driving licence.</dd>
   <dt>Engagement terms</dt>
-  <dd>Day-rate contracting. Terms agreed individually.</dd>
+  <dd>Day-rate contracting or <a href="{{ '/services/app-development/' | relative_url }}">fixed-scope project delivery</a>. Terms agreed individually.</dd>
   <dt>Availability</dt>
   <dd>Please enquire about current availability.</dd>
 </dl>

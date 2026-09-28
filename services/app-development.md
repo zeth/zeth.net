@@ -4,7 +4,7 @@ permalink: /services/app-development/
 eyebrow: Services · Application Development
 heading: Deliver your project
 lede: >-
-  Zeth takes responsibility for delivering your software project, from
+  We take responsibility for delivering your software project, from
   agreeing the scope to building, testing and handover. You bring the
   problem you want to solve and take part in regular progress reviews.
 description: >-
@@ -22,9 +22,9 @@ If you want an engineer working within your team's day-to-day priorities and pro
 
 <div class="split split--pairs" markdown="1">
 <div markdown="1">
-### One accountable person
+### Direct contact
 
-You work directly with Zeth, who scopes, builds and maintains the software.
+You work directly with the two of us: we scope, build and maintain the software.
 
 </div>
 <div markdown="1">
