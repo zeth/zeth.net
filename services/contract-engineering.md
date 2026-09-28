@@ -112,12 +112,14 @@ Selected public work, including open-source contributions, is on the [Work]({{ '
   <dt>Contracting entity</dt>
   <dd>{{ c.legal_name }}</dd>
   <dt>Location</dt>
-  <dd>Remote-first, UK based; on-site visits by arrangement</dd>
+  <dd>UK-based, remote-first. Hybrid, on-site and travel arrangements considered. Full clean UK driving licence.</dd>
   <dt>Engagement terms</dt>
-  <dd>{% include placeholder.html text="Typical terms, e.g. day rate or fixed scope; IR35 position if you want to state one" %}</dd>
+  <dd>Day-rate contracting or fixed-scope project delivery. Terms agreed individually.</dd>
   <dt>Availability</dt>
-  <dd>{% include placeholder.html text="Current availability, or remove this row and discuss it by email" %}</dd>
+  <dd>Please enquire about current availability.</dd>
 </dl>
+
+Working arrangements are flexible and depend on the nature, location and commercial terms of each engagement.
 
 <div class="panel" markdown="1">
 ### Discuss a contract

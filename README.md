@@ -72,7 +72,7 @@ The full-size originals are kept outside the repository, in the parent
 
 - [ ] **Registered office**: `_data/company.yml`.
 - [ ] **VAT number**, if registered (set `show_vat: true`).
-- [ ] **Contract Engineering**: engagement terms and availability; check the CV-derived experience summary.
+- [ ] **Contract Engineering**: check the CV-derived experience summary.
 - [ ] **About**: check the CV-derived text about Zeth and the introduction to Jutta.
 - [ ] **Holder**: check the "shared C/C++ core" description and the release details on the Work page are current.
 - [ ] **Company page**: which apps, if any, are published under Zeth Ltd's name.
