@@ -2,7 +2,7 @@
 title: Contract Engineering
 permalink: /services/contract-engineering/
 eyebrow: Services · Contract Engineering
-heading: Contract engineering for technical teams
+heading: Join your team
 lede: >-
   A senior Python engineer with more than twenty years of experience, who
   can join your team, understand the existing system quickly and deliver
@@ -86,12 +86,16 @@ Full-stack work where it is needed, and native desktop and mobile software on a 
 
 Automated testing, packaging, release processes and the kind of documentation that makes the next engineer's job easier. Coaching and supporting other developers is part of the job too. Much of this is visible in public in the [open-source work]({{ '/open-source/' | relative_url }}) Zeth Ltd supports.
 
-## Types of engagement
+## Work within your team
+
+Your team sets the priorities and directs the work day to day. Zeth joins your development process as a senior engineer, with work that can include:
 
 - **Joining an existing team** as a contributing senior engineer on your roadmap.
-- **A defined piece of work**, such as a new service, component, integration or port, delivered into your codebase.
+- **Building services and integrations** within your team's roadmap and delivery process.
 - **Improving what already exists:** rescuing legacy systems, adding tests, build and release pipelines, performance, or paying down technical debt.
 - **Technical advice** on architecture or platform choices before you commit.
+
+For a project you want Zeth to scope, manage and deliver, see [Deliver your project]({{ '/services/app-development/' | relative_url }}).
 
 ## Experience
 
@@ -114,7 +118,7 @@ Public work, including Holder and other open-source contributions, is on the [Op
   <dt>Location</dt>
   <dd>UK-based, remote-first. Hybrid, on-site and travel arrangements considered. Full clean UK driving licence.</dd>
   <dt>Engagement terms</dt>
-  <dd>Day-rate contracting or fixed-scope project delivery. Terms agreed individually.</dd>
+  <dd>Day-rate contracting. Terms agreed individually.</dd>
   <dt>Availability</dt>
   <dd>Please enquire about current availability.</dd>
 </dl>

@@ -20,7 +20,7 @@ Zeth Ltd provides [contract engineering]({{ '/services/contract-engineering/' | 
   <figcaption>Zeth and Jutta, directors of Zeth Ltd</figcaption>
 </figure>
 
-We are not an agency, and we do not pretend to be one. Keeping the company small means direct communication, clear responsibility and software built by someone who expects to be accountable for it for years to come.
+You work directly with Zeth, who scopes, builds and maintains the software. Keeping the company small gives you a direct line to the person doing the engineering, from the first conversation through to release and ongoing support.
 
 <div class="people">
 <div class="people__text" markdown="1">

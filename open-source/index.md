@@ -15,7 +15,7 @@ description: >-
 
 ## Why we do it
 
-Open source lets anyone inspect, use and improve software, and it keeps our own engineering honest because the work is visible. Supporting it is part of how Zeth Ltd works, not a marketing exercise.
+Open source lets anyone inspect, use and improve software. Zeth Ltd supports that work with engineering time and infrastructure, and the projects below show the code, architecture and release processes we contribute to.
 
 <section class="feature" id="holder" aria-labelledby="holder-heading">
 <div markdown="1">

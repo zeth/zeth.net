@@ -16,7 +16,7 @@ description: >-
 
 <div class="split">
 <div class="panel" id="contract" markdown="1">
-### Contract engineering
+### Join your team
 
 For recruiters and engineering managers. It helps to include:
 
@@ -31,18 +31,18 @@ A current CV is available on request.
 </div>
 </div>
 <div class="panel" id="app" markdown="1">
-### A new app idea
+### Deliver your project
 
-For businesses, charities and communities. No technical detail needed; just tell us:
+For businesses, charities and communities, with or without an in-house team. Tell us:
 
-- what you would like the app to do;
+- what you would like the software to do;
 - who it is for;
 - any timescale or budget you have in mind.
 
 We will reply to arrange an informal conversation.
 
 <div class="button-row">
-  {% include email-link.html class="button" subject="New app idea" label="Email about an idea" %}
+  {% include email-link.html class="button" subject="Project enquiry" label="Email about a project" %}
 </div>
 </div>
 </div>

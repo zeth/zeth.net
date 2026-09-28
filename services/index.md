@@ -2,10 +2,10 @@
 title: Services
 permalink: /services/
 eyebrow: Services
-heading: Engineering that fits around you
+heading: Two ways to work with us
 lede: >-
-  Every team and every idea is different. We adapt to your people, your
-  process and your timescale, rather than asking you to fit ours.
+  Zeth can join your engineering team and work on your priorities, or take
+  responsibility for delivering a project from an agreed scope to handover.
 description: >-
   Contract engineering for technical teams and bespoke application development
   for organisations with an idea to build, from Zeth Ltd.
@@ -14,16 +14,18 @@ description: >-
 <div class="cards">
   <div class="card">
     <p class="card__for">You have an engineering team</p>
-    <h3><a href="{{ '/services/contract-engineering/' | relative_url }}">Contract Engineering</a></h3>
-    <p>You need an experienced engineer to strengthen a team, take on a well-defined piece of work or help move a system forward. Zeth works inside your codebase, your tools and your process.</p>
+    <h3><a href="{{ '/services/contract-engineering/' | relative_url }}">Join your team</a></h3>
+    <p>A senior engineer working alongside your developers. Your team sets the priorities; Zeth contributes through your codebase, tools and delivery process.</p>
+    <p>Python, Django and backend services, with cloud and full-stack experience.</p>
     <p class="small">Typically arranged with an engineering manager or through a recruiter.</p>
     <span class="arrow-link" aria-hidden="true">Contract engineering</span>
   </div>
   <div class="card">
-    <p class="card__for">You have an idea</p>
-    <h3><a href="{{ '/services/app-development/' | relative_url }}">Application Development</a></h3>
-    <p>You want an app built for your business, charity or community, and you would like one accountable person to guide you from the idea to a finished, maintained product.</p>
-    <p class="small">No technical background needed; we explain every decision in plain English.</p>
+    <p class="card__for">You have a project to deliver</p>
+    <h3><a href="{{ '/services/app-development/' | relative_url }}">Deliver your project</a></h3>
+    <p>You agree the scope with Zeth, who takes responsibility for planning, building, testing and handing over the software, with regular progress updates.</p>
+    <p>Mobile and desktop applications, backend services and integrations.</p>
+    <p class="small">For organisations with or without an in-house development team.</p>
     <span class="arrow-link" aria-hidden="true">Application development</span>
   </div>
 </div>
@@ -32,20 +34,20 @@ description: >-
 
 <div class="split" markdown="1">
 <div markdown="1">
-### Contract engineering is a good fit if…
+### Join your team
 
 - the work will be directed day to day by your team;
 - you already have developers and a codebase;
 - you know roughly what needs doing and need capacity or expertise.
 </div>
 <div markdown="1">
-### Application development is a good fit if…
+### Deliver your project
 
-- your developers are busy, and you need a self-contained piece of work (a new service, integration or deployment) delivered and handed over, rather than managed;
+- you want Zeth to take responsibility for delivering an agreed scope, such as a new app, service or integration;
 - you already have a system, such as a Django application, and want a mobile app built to work with it;
-- you want a finished application, not extra hands;
-- you don't have an in-house team, and want help deciding what to build as well as building it.
+- you want regular reviews of progress while Zeth manages the development work;
+- you need help deciding what to build as well as building it.
 </div>
 </div>
 
-Not sure? [Send a short description of your situation]({{ '/contact/' | relative_url }}) and we will say honestly which, if either, suits you.
+The choice is about how we work together. Either route can involve an existing system or new software. [Send a short description of your situation]({{ '/contact/' | relative_url }}) and we can discuss which arrangement fits.
