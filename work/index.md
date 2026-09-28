@@ -68,7 +68,7 @@ Holder is young and says so plainly: some platforms and features are further alo
 
 ## Client and contract work
 
-{% include placeholder.html text="Add summaries of client or contract work here only where the client has agreed. Otherwise, remove this section." %}
+Client work is usually confidential, so it is summarised without names: machine-learning pricing tools, insurance payments, fleet management, electric-vehicle app backends, research software and more. See the [experience summary]({{ '/services/contract-engineering/#experience' | relative_url }}) on the contract engineering page.
 
 <div class="panel" markdown="1">
 ### Want something similar built?

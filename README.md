@@ -73,7 +73,6 @@ web-sized, metadata-stripped copies are in `assets/images/`.
 - [ ] **VAT number**, if registered (set `show_vat: true`).
 - [ ] **Contract Engineering**: engagement terms and availability; check the CV-derived experience summary.
 - [ ] **About**: check the CV-derived text about Zeth and the introduction to Jutta.
-- [ ] **Work**: client or contract work (only with the client's permission), or remove that section.
 - [ ] **Holder**: check the "shared C/C++ core" description and the release details on the Work page are current.
 - [ ] **Company page**: which apps, if any, are published under Zeth Ltd's name.
 - [ ] **Privacy notice** (`legal/privacy.md`): write it from the facts, then have it reviewed.
