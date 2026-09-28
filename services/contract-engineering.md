@@ -4,66 +4,105 @@ permalink: /services/contract-engineering/
 eyebrow: Services · Contract Engineering
 heading: Contract engineering for technical teams
 lede: >-
-  An experienced, independent software engineer who can join your team,
-  understand the existing system quickly and deliver work that others can
-  maintain after the contract ends.
+  A senior Python engineer with more than twenty years of experience, who
+  can join your team, understand the existing system quickly and deliver
+  work that others can maintain after the contract ends.
 description: >-
-  Contract software engineering from Zeth Ltd: Python and backend services,
-  cross-platform application engineering, testing, packaging and release.
+  Contract software engineering from Zeth Ltd: Python, Django and backend
+  services, machine-learning platforms, and cross-platform applications.
 ---
 
 {%- assign c = site.data.company -%}
 
 <div class="panel" markdown="1">
-**In brief for recruiters:** engagements are contracted through Zeth Ltd, a UK limited company. Main areas are Python and backend engineering and cross-platform application development.
+**In brief for recruiters:** senior Python engineer, contracting through Zeth Ltd since 2017. Strongest in Python, Django and backend services, with front-end, cloud and machine-learning platform experience. Remote-first.
 Current CV available on request: {% include email-link.html subject="CV request" label="request a CV" %} or use the [contact page]({{ '/contact/' | relative_url }}).
 </div>
 
 ## Principal areas
 
-<div class="split" markdown="1">
+<div class="split split--pairs" markdown="1">
 <div markdown="1">
 ### Python and backend engineering
 
-Designing, building and maintaining server-side systems and services in Python, and improving the reliability of existing ones.
+Designing, building and maintaining server-side systems, web applications and APIs in Python, and improving the reliability of existing ones.
 
 <ul class="tags">
   <li>Python</li>
-  <li>Backend services</li>
-  <li>APIs</li>
+  <li>Django</li>
+  <li>FastAPI</li>
+  <li>Flask</li>
+  <li>asyncio</li>
+  <li>Pydantic</li>
+  <li>PostgreSQL</li>
+  <li>MongoDB</li>
+  <li>DynamoDB</li>
 </ul>
-
-{% include placeholder.html text="Specific frameworks, databases and infrastructure to list here (e.g. web frameworks, datastores, cloud platforms)." %}
 </div>
 <div markdown="1">
-### Cross-platform and native applications
+### Cloud and delivery
 
-Mobile and desktop software that shares a portable core, as demonstrated in the open-source [Holder]({{ '/work/#holder' | relative_url }}) project.
+Moving applications into containers and automated deployment pipelines, and running them on the major cloud platforms.
 
 <ul class="tags">
-  <li>C/C++</li>
-  <li>Mobile</li>
-  <li>Desktop</li>
+  <li>AWS</li>
+  <li>AWS Lambda</li>
+  <li>Google Cloud</li>
+  <li>Docker</li>
+  <li>Kubernetes</li>
+  <li>Linux</li>
 </ul>
+</div>
+<div markdown="1">
+### Data, machine learning and AI
 
-{% include placeholder.html text="Specific platforms, languages and UI toolkits to list here." %}
+Building the tools around models: interfaces for people who use model outputs, the platforms that run them, and practical LLM applications.
+
+<ul class="tags">
+  <li>Kubeflow</li>
+  <li>Vertex AI</li>
+  <li>BigQuery</li>
+  <li>Pandas</li>
+  <li>LangChain</li>
+  <li>Pydantic AI</li>
+</ul>
+</div>
+<div markdown="1">
+### Front end and cross-platform
+
+Full-stack work where it is needed, and native desktop and mobile software on a portable core, as in the open-source [Holder]({{ '/work/#holder' | relative_url }}) project.
+
+<ul class="tags">
+  <li>React</li>
+  <li>TypeScript</li>
+  <li>C</li>
+  <li>Linux · macOS · Windows</li>
+  <li>Android</li>
+</ul>
 </div>
 </div>
 
 ### Engineering practice
 
-Automated testing, packaging, release processes and the kind of documentation that makes the next engineer's job easier. These are visible in public in the [open-source work]({{ '/open-source/' | relative_url }}) Zeth Ltd supports.
+Automated testing, packaging, release processes and the kind of documentation that makes the next engineer's job easier. Coaching and supporting other developers is part of the job too. Much of this is visible in public in the [open-source work]({{ '/open-source/' | relative_url }}) Zeth Ltd supports.
 
 ## Types of engagement
 
 - **Joining an existing team** as a contributing senior engineer on your roadmap.
 - **A defined piece of work**, such as a new service, component, integration or port, delivered into your codebase.
-- **Improving what already exists:** tests, build and release pipelines, performance, or paying down technical debt.
+- **Improving what already exists:** rescuing legacy systems, adding tests, build and release pipelines, performance, or paying down technical debt.
 - **Technical advice** on architecture or platform choices before you commit.
 
 ## Experience
 
-{% include placeholder.html text="Short summary of relevant professional experience: sectors, types of organisation, typical role and years of experience. Do not publish client names without permission." %}
+More than twenty years of building software, from university research systems to commercial platforms, most recently as a contractor through Zeth Ltd. Some examples, without client names:
+
+- **Machine-learning pricing tools** for the data science group of a large international retailer: a Django and React interface to AI and machine-learning pricing models, on Google Cloud with Kubernetes, Kubeflow, BigQuery and Vertex AI, working directly with end users and stakeholders.
+- **Payments for an insurer:** led the rewrite of serverless software that takes premiums and pays claims, so the business could expand to the US and EU. Python on AWS Lambda, with Flask, Stripe and a Django customer portal.
+- **Fleet management and telematics** applications with Django REST Framework and React; migrated the application to Docker and an AWS deployment pipeline, ran the monthly developer meeting and coached junior developers.
+- **Backend for a car manufacturer's smartphone app** that helps drivers manage electric-vehicle battery use.
+- **Research software** as lead developer at a UK university: tools to record, analyse, compare and publish medieval manuscript data, including an asynchronous text-collation system handling tens of millions of variants.
+- **A real-time auction system** for a UK government agency, kept in step with a live in-person auction.
 
 Selected public work, including open-source contributions, is on the [Work]({{ '/work/' | relative_url }}) and [Open Source]({{ '/open-source/' | relative_url }}) pages.
 
@@ -73,7 +112,7 @@ Selected public work, including open-source contributions, is on the [Work]({{ '
   <dt>Contracting entity</dt>
   <dd>{{ c.legal_name }}</dd>
   <dt>Location</dt>
-  <dd>{% include placeholder.html text="Base location, and remote / hybrid / on-site preferences" %}</dd>
+  <dd>Remote-first, UK based; on-site visits by arrangement</dd>
   <dt>Engagement terms</dt>
   <dd>{% include placeholder.html text="Typical terms, e.g. day rate or fixed scope; IR35 position if you want to state one" %}</dd>
   <dt>Availability</dt>

@@ -31,23 +31,26 @@ We are not an agency, and we do not pretend to be one. Keeping the company small
 
 Zeth is a software engineer, a co-founder and director of Zeth Ltd, and the engineer on client and contract work. Zeth's work spans Python and backend systems on one side, and native mobile and desktop software on the other, including the shared C/C++ core behind Holder.
 
-{% include placeholder.html text="A short, personal introduction in Zeth's own words: background, how Zeth came to software, what Zeth enjoys about the work." %}
+Zeth came to software by way of economics and the humanities, with degrees in econometrics and digital humanities and a master's in natural language processing, and paid for the second degree by building web applications for small businesses. That mix still shows: Zeth enjoys new projects, rescuing old legacy systems, meeting new people and learning how different industries work.
 
 ### Professional background
 
-{% include placeholder.html text="Selected professional background: roles, sectors and notable achievements, confirmed and suitable for publication." %}
+More than twenty years of building software. Zeth spent the first part of that career at a UK university, leading the development of research software for digital editions of medieval manuscripts, teaching Python to humanities students and maintaining a Linux cluster. Since then the work has been commercial, most recently as a senior contractor: machine-learning pricing tools for a large international retailer, payments software for an insurer, fleet-management applications and a real-time auction system. There is more detail on the [contract engineering]({{ '/services/contract-engineering/#experience' | relative_url }}) page.
 
 ### Open source and community
 
 Zeth's open-source work is on GitHub at [github.com/zeth]({{ site.data.company.github_personal }}), and Holder's repositories are under [HolderTeam]({{ site.data.company.holder.github }}).
 
-{% include placeholder.html text="Selected open-source contributions and community involvement (projects, talks, conferences), with links." %}
+- Elected a **Fellow of the Python Software Foundation** in 2010, for contributions to the Python community.
+- Founded **Python West Midlands** in 2006, and co-founded **PyCon UK**, the UK's Python conference, in 2007, serving as vice-chair for seven years and chair for two. Organiser of **EuroPython** from 2008 to 2010.
+- Contributions to open-source projects including Python itself, the EU-funded [CollateX](https://collatex.net/about/) text-collation project, and **inputs**, a cross-platform Python library for USB devices.
+- Still a regular at conferences: including DjangoCon Europe 2025 in Dublin and its sprints, where Zeth closed a Django bug.
 
 ## Jutta
 
-Jutta is a co-founder and director of Zeth Ltd, and its company secretary.
+Jutta is a co-founder and director of Zeth Ltd, and its company secretary, keeping the company's affairs in good order.
 
-{% include placeholder.html text="A short introduction to Jutta: her background and her part in the business." %}
+She brings a practical, people-first perspective from her experience in IT support: she knows what happens when real people meet real software, and what it takes to help them. She holds a BA (Hons) in History from the University of Essex, and brings a historian's eye for detail and for getting the record right.
 
 <div class="panel" markdown="1">
 ### Working together

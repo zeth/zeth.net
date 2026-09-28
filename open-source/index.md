@@ -32,7 +32,10 @@ Holder is a volunteer-run project maintained by the Holder Team. Zeth Ltd suppor
 
 ## Other contributions
 
-{% include placeholder.html text="Other open-source projects, contributions, talks or community involvement to list here, with links." %}
+- **Python:** contributions to Python itself, and **inputs**, a cross-platform Python library for USB devices, created by Zeth.
+- **Django:** closed a Django bug during the DjangoCon Europe 2025 sprints in Dublin.
+- **Interedition and CollateX:** collaborated in these EU projects to create open-source software for scholarly editing, including [CollateX](https://collatex.net/about/) for comparing versions of texts.
+- **Community:** Zeth founded Python West Midlands, co-founded PyCon UK and is a Fellow of the Python Software Foundation. [More on the About page]({{ '/about/#open-source-and-community' | relative_url }}).
 
 ## Get involved
 
