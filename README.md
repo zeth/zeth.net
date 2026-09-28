@@ -64,8 +64,9 @@ contact button and `mailto:` link on the site uses it.
 The Holder screenshot (`assets/images/holder-desktop.jpg`) is copied from the
 holder-website repository. The Holder panel is in `_includes/holder-slot.html`.
 
-The original photos in `images/` are not published (excluded in `_config.yml`);
-web-sized, metadata-stripped copies are in `assets/images/`.
+The site uses web-sized, metadata-stripped copies of photos in `assets/images/`.
+The full-size originals are kept outside the repository, in the parent
+`homepage/` directory.
 
 ## To confirm before publication
 

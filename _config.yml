@@ -41,5 +41,3 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor/
-  - images/
-  - zeth-net-local-jekyll-handoff.md
