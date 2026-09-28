@@ -1,7 +1,7 @@
 ---
 title: Privacy Notice
-permalink: /legal/privacy/
-eyebrow: Legal · Draft
+permalink: /privacy/
+eyebrow: Privacy · Draft
 heading: Privacy notice
 lede: How Zeth Ltd handles personal information.
 description: Privacy notice for Zeth Ltd. Draft awaiting review.
@@ -30,4 +30,4 @@ The final notice is likely to need to cover the following. Each must be based on
 - {% include placeholder.html text="This website: confirm the facts about hosting, server logs, cookies and analytics before describing them." %}
 - {% include placeholder.html text="Date of last update." %}
 
-Privacy information specific to the Holder applications is in the separate [Holder privacy policy]({{ '/legal/holder/privacy/' | relative_url }}).
+Privacy information specific to the Holder applications is in the separate [Holder privacy policy]({{ '/privacy/holder/' | relative_url }}).

@@ -47,4 +47,4 @@ We will reply to arrange an informal conversation.
 </div>
 </div>
 
-<p class="small">See the <a href="{{ '/legal/privacy/' | relative_url }}">privacy notice</a>. Formal company details are on the <a href="{{ '/company/' | relative_url }}">company information</a> page.</p>
+<p class="small">See the <a href="{{ '/privacy/' | relative_url }}">privacy notice</a>. Formal company details are on the <a href="{{ '/company/' | relative_url }}">company information</a> page.</p>

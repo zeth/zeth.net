@@ -1,7 +1,7 @@
 ---
 title: Holder Privacy Policy
-permalink: /legal/holder/privacy/
-eyebrow: Legal · Draft
+permalink: /privacy/holder/
+eyebrow: Privacy · Draft
 heading: Holder privacy policy
 lede: Privacy information for the Holder applications.
 description: Privacy policy for the Holder applications. Draft awaiting review.

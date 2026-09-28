@@ -44,7 +44,7 @@ The warning about `faraday-retry` comes from the `github-pages` gem and is harml
 | Main navigation | `_data/navigation.yml` |
 | Site title, description, production URL | `_config.yml` |
 | Homepage | `index.html` |
-| Other pages | `services/`, `work/`, `open-source/`, `about/`, `contact/`, `company/`, `legal/` (Markdown) |
+| Other pages | `services/`, `work/`, `open-source/`, `about/`, `contact/`, `company/`, `privacy/` (Markdown) |
 | Shared layout, header, footer | `_layouts/`, `_includes/` |
 | Styles | `assets/css/main.scss` (colour tokens at the top) |
 | Images | `assets/images/` |
@@ -76,6 +76,6 @@ The full-size originals are kept outside the repository, in the parent
 - [ ] **About**: check the CV-derived text about Zeth and the introduction to Jutta.
 - [ ] **Holder**: check the "shared C/C++ core" description and the release details on the Work page are current.
 - [ ] **Company page**: which apps, if any, are published under Zeth Ltd's name.
-- [ ] **Privacy notice** (`legal/privacy.md`): write it from the facts, then have it reviewed.
-- [ ] **Holder privacy** (`legal/holder/privacy.md`): holder.team already has a privacy policy. Decide whether to link to it, mirror it or remove this page.
+- [ ] **Privacy notice** (`privacy/index.md`): write it from the facts, then have it reviewed.
+- [ ] **Holder privacy** (`privacy/holder.md`): holder.team already has a privacy policy. Decide whether to link to it, mirror it or remove this page.
 - [ ] **Photos**: approve the portrait (homepage, About), the photo of Zeth and Jutta, and replace the interim portrait of Jutta (About).

@@ -7,7 +7,7 @@ lede: >-
   Formal details of Zeth Ltd, for customers, partners and anyone verifying
   the company's identity.
 description: >-
-  Legal and company information for Zeth Ltd, a UK software engineering
+  Company information for Zeth Ltd, a UK software engineering
   company.
 ---
 {%- assign c = site.data.company -%}
@@ -45,11 +45,11 @@ These details can be checked on the public register at [Companies House](https:/
 
 ## Software published by Zeth Ltd
 
-Zeth Ltd supports the development of [Holder]({{ c.holder.url }}), an open-source knowledge workspace. Application-specific information is in the [Holder privacy policy]({{ '/legal/holder/privacy/' | relative_url }}).
+Zeth Ltd supports the development of [Holder]({{ c.holder.url }}), an open-source knowledge workspace. Application-specific information is in the [Holder privacy policy]({{ '/privacy/holder/' | relative_url }}).
 
 {% include placeholder.html text="Confirm which apps, if any, are distributed under Zeth Ltd's name (for example as the publisher on an app store), and list them here." %}
 
-## Legal
+## Privacy
 
-- [Privacy notice]({{ '/legal/privacy/' | relative_url }})
-- [Holder privacy policy]({{ '/legal/holder/privacy/' | relative_url }})
+- [Privacy notice]({{ '/privacy/' | relative_url }})
+- [Holder privacy policy]({{ '/privacy/holder/' | relative_url }})
