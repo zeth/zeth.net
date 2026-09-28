@@ -15,7 +15,7 @@ sitemap: false
 
 ## Who we are
 
-{{ c.legal_name }}, company number {% include fact.html value=c.company_number label="company number" %}, registered office {% include fact.html value=c.registered_office label="registered office address" %}. Contact: {% include email-link.html %}.
+{{ c.legal_name }}, company number {% include fact.html value=c.company_number label="company number" %}, registered office {% include fact.html value=c.registered_office label="registered office address" %}. Privacy contact: {% include email-link.html email=c.privacy_email %}.
 
 ## Sections to complete
 

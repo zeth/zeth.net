@@ -24,6 +24,7 @@ show_vat: false
 
 # Contact -- REQUIRED before publication.
 email: hello@zeth.net
+privacy_email: privacy@zeth.net   # used on the Zeth Ltd privacy notice
 cv_on_request: true
 
 # Links
