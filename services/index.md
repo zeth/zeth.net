@@ -41,8 +41,8 @@ description: >-
 <div markdown="1">
 ### Application development is a good fit if…
 
-- you already have a system, such as a Django application, and want a mobile app built to work with it;
 - your developers are busy, and you need a self-contained piece of work (a new service, integration or deployment) delivered and handed over, rather than managed;
+- you already have a system, such as a Django application, and want a mobile app built to work with it;
 - you want a finished application, not extra hands;
 - you don't have an in-house team, and want help deciding what to build as well as building it.
 </div>
