@@ -573,3 +573,35 @@ mark.placeholder {
 .page-body > .panel { clear: both; }
 .page-body > .feature { margin: 3rem 0 1rem; }
 .split h4 { margin-top: 0; }
+
+// About page: text on the left; photos on the right, Zeth's at the top and
+// Jutta's pinned to the bottom so it can rise alongside the longer text.
+.page-body > .people {
+  max-width: none;
+  display: grid;
+  grid-template-columns: minmax(0, var(--measure)) minmax(12rem, 18rem);
+  justify-content: space-between;
+  gap: 2.5rem;
+  margin: 3rem 0 2.5rem;
+}
+.people__text > h2:first-child { margin-top: 0; }
+.people__text > :last-child { margin-bottom: 0; }
+.people__photos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 2rem;
+  padding-top: 3.2rem; // line Zeth's photo up with the text under the heading
+}
+.people__photo { margin: 0; }
+.people__photo img { border-radius: var(--radius); }
+.people__photo figcaption { font-size: 0.85rem; color: var(--muted); margin-top: 0.5rem; }
+@media (max-width: 48rem) {
+  .page-body > .people { grid-template-columns: 1fr; }
+  .people__photos {
+    order: -1;
+    flex-direction: row;
+    padding-top: 0;
+  }
+  .people__photo { flex: 1; }
+}

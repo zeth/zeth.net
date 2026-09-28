@@ -22,12 +22,9 @@ Zeth Ltd provides [contract engineering]({{ '/services/contract-engineering/' | 
 
 We are not an agency, and we do not pretend to be one. Keeping the company small means direct communication, clear responsibility and software built by someone who expects to be accountable for it for years to come.
 
+<div class="people">
+<div class="people__text" markdown="1">
 ## Zeth
-
-<figure class="portrait">
-  <img src="{{ '/assets/images/zeth-portrait.jpg' | relative_url }}" alt="Zeth sitting at a laptop on a train, smiling at the camera" width="900" height="1200" loading="lazy">
-  <figcaption>Zeth, chief engineer of Zeth Ltd</figcaption>
-</figure>
 
 Zeth is the chief engineer of Zeth Ltd, and does the engineering on client and contract work. Zeth's work spans Python and backend systems on one side, and native mobile and desktop software on the other. He has an undergraduate degree from Essex, and an undergraduate and masters degree from Birmingham. Zeth enjoys new projects, rescuing old legacy systems, meeting new people and learning how different industries work.
 
@@ -46,14 +43,21 @@ Zeth's open-source work is on GitHub at [github.com/zeth]({{ site.data.company.g
 
 ## Jutta
 
-<figure class="portrait">
+Jutta is the company secretary of Zeth Ltd, keeping the company's affairs in good order.
+
+She brings a practical, people-first perspective from her experience in IT support: she knows what happens when real people meet real software, and what it takes to help them. She holds a BA (Hons) in History from the University of Essex, and brings a historian's eye for detail and for getting the record right.
+</div>
+<div class="people__photos">
+<figure class="people__photo">
+  <img src="{{ '/assets/images/zeth-portrait.jpg' | relative_url }}" alt="Zeth sitting at a laptop on a train, smiling at the camera" width="900" height="1200" loading="lazy">
+  <figcaption>Zeth, chief engineer of Zeth Ltd</figcaption>
+</figure>
+<figure class="people__photo">
   <img src="{{ '/assets/images/jutta-portrait.jpg' | relative_url }}" alt="Jutta smiling, seated in a café" width="768" height="1024" loading="lazy">
   <figcaption>Jutta, company secretary of Zeth Ltd</figcaption>
 </figure>
-
-Jutta is a company secretary of Zeth Ltd, keeping the company's affairs in good order.
-
-She brings a practical, people-first perspective from her experience in IT support: she knows what happens when real people meet real software, and what it takes to help them. She holds a BA (Hons) in History from the University of Essex, and brings a historian's eye for detail and for getting the record right.
+</div>
+</div>
 
 <div class="panel" markdown="1">
 ### Working together
