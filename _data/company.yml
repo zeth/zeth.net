@@ -9,9 +9,9 @@ short_name: Zeth
 founder: Zeth
 
 # Legal identity -- REQUIRED before publication.
-company_number: ~        # e.g. "12345678" (Companies House registration number)
-company_type: ~       # e.g. "Private company limited by shares"
-jurisdiction: England and Wales   # as stated in holder.team/privacy/
+company_number: "10657524" # e.g. "12345678" (Companies House registration number)
+company_type: Private limited company
+jurisdiction: England and Wales
 registered_office: ~     # Full registered office address, one line
 vat_number: ~            # Leave empty if not VAT-registered; the row is then hidden
                          # unless show_vat is true.

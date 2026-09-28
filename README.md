@@ -70,8 +70,7 @@ web-sized, metadata-stripped copies are in `assets/images/`.
 ## To confirm before publication
 
 - [ ] **Business email address**: `email` in `_data/company.yml`.
-- [ ] **Company number**, **company type** and **registered office**: `_data/company.yml`.
-- [ ] **Jurisdiction**: currently *England and Wales*, taken from Holder's privacy policy; check against Companies House.
+- [ ] **Registered office**: `_data/company.yml`.
 - [ ] **VAT number**, if registered (set `show_vat: true`).
 - [ ] **GitHub link** for the footer: `github_company` or `github_personal`.
 - [ ] **Contract Engineering**: specific technologies, experience summary, location, terms and availability.
