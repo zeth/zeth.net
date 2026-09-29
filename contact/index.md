@@ -16,7 +16,7 @@ description: >-
 
 <div class="split">
 <div class="panel" id="contract" markdown="1">
-### Join your team
+### For Zeth to join your team
 
 For recruiters and engineering managers. It helps to include:
 
@@ -31,7 +31,7 @@ A current CV is available on request.
 </div>
 </div>
 <div class="panel" id="app" markdown="1">
-### Deliver your project
+### For us to deliver your project
 
 For businesses, charities and communities, with or without an in-house team. Tell us:
 
