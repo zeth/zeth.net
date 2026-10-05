@@ -70,7 +70,7 @@ The full-size originals are kept outside the repository, in the parent
 
 ## To confirm before publication
 
-- [ ] **Registered office**: `_data/company.yml`.
+- [ ] **Registered office**: move it to a service address (registered office service or accountant), not home; then set it in `_data/company.yml`.
 - [ ] **VAT number**, if registered (set `show_vat: true`).
 - [ ] **Contract Engineering**: check the CV-derived experience summary.
 - [ ] **About**: check the CV-derived text about Zeth and the introduction to Jutta.

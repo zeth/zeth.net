@@ -25,8 +25,10 @@ description: >-
   <dd>{{ c.directors | join: ' and ' }}</dd>
   <dt>Company secretary</dt>
   <dd>{{ c.company_secretary }}</dd>
+  {%- if c.registered_office %}
   <dt>Registered office</dt>
-  <dd>{% include fact.html value=c.registered_office label="registered office address" %}</dd>
+  <dd>{{ c.registered_office }}</dd>
+  {%- endif %}
   {%- if c.show_vat %}
   <dt>VAT number</dt>
   <dd>{% include fact.html value=c.vat_number label="VAT registration number" %}</dd>
